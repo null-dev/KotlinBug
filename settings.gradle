@@ -1,0 +1,4 @@
+rootProject.name = 'ktbug'
+
+include 'ParentModule'
+include 'ParentModule/SubModule'
